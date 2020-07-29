@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Sample.iml" filepath="$PROJECT_DIR$/.idea/modules/Sample.iml" group="Sample" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Sample_buildSrc.iml" filepath="$PROJECT_DIR$/.idea/modules/Sample_buildSrc.iml" group="Sample/Sample_buildSrc" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/app.iml" group="Sample/app" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/shared/shared.iml" filepath="$PROJECT_DIR$/.idea/modules/shared/shared.iml" group="Sample/shared" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/shared/shared_commonMain.iml" filepath="$PROJECT_DIR$/.idea/modules/shared/shared_commonMain.iml" group="shared" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/shared/shared_commonTest.iml" filepath="$PROJECT_DIR$/.idea/modules/shared/shared_commonTest.iml" group="shared" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/shared/shared_iosMain.iml" filepath="$PROJECT_DIR$/.idea/modules/shared/shared_iosMain.iml" group="shared" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/shared/shared_iosTest.iml" filepath="$PROJECT_DIR$/.idea/modules/shared/shared_iosTest.iml" group="shared" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/submodulea/submodulea.iml" filepath="$PROJECT_DIR$/.idea/modules/submodulea/submodulea.iml" group="Sample/submodulea" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/submodulea/submodulea_commonMain.iml" filepath="$PROJECT_DIR$/.idea/modules/submodulea/submodulea_commonMain.iml" group="submodulea" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/submodulea/submodulea_commonTest.iml" filepath="$PROJECT_DIR$/.idea/modules/submodulea/submodulea_commonTest.iml" group="submodulea" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/submodulea/submodulea_iosMain.iml" filepath="$PROJECT_DIR$/.idea/modules/submodulea/submodulea_iosMain.iml" group="submodulea" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/submodulea/submodulea_iosTest.iml" filepath="$PROJECT_DIR$/.idea/modules/submodulea/submodulea_iosTest.iml" group="submodulea" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/submoduleb/submoduleb.iml" filepath="$PROJECT_DIR$/.idea/modules/submoduleb/submoduleb.iml" group="Sample/submoduleb" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/submoduleb/submoduleb_commonMain.iml" filepath="$PROJECT_DIR$/.idea/modules/submoduleb/submoduleb_commonMain.iml" group="submoduleb" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/submoduleb/submoduleb_commonTest.iml" filepath="$PROJECT_DIR$/.idea/modules/submoduleb/submoduleb_commonTest.iml" group="submoduleb" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/submoduleb/submoduleb_iosMain.iml" filepath="$PROJECT_DIR$/.idea/modules/submoduleb/submoduleb_iosMain.iml" group="submoduleb" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/submoduleb/submoduleb_iosTest.iml" filepath="$PROJECT_DIR$/.idea/modules/submoduleb/submoduleb_iosTest.iml" group="submoduleb" />
+    </modules>
+  </component>
+</project>
