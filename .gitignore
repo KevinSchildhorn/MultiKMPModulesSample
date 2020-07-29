@@ -1,0 +1,14 @@
+local.properties
+.gradle
+build/
+
+.idea/**/*
+!.idea/inspectionProfiles/
+!.idea/inspectionProfiles/**
+!.idea/codeStyles/
+!.idea/codeStyles/**
+
+*.iml
+
+.DS_Store
+.vscode

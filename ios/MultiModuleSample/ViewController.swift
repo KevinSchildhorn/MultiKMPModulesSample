@@ -17,6 +17,9 @@ class ViewController: UIViewController {
         PlatformKt.timesTwo(a: 2)
         PlatformiOSKt.currentTimeMillis()
         PlatformKt_.add(a: 2, b: 2)
+        
+        let customClass = CustomClass()
+        PlatformKt.handleCustomClass(customClass: customClass)
     }
     
 }
